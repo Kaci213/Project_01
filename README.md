@@ -15,22 +15,30 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
+This is a handy tool that encrypts and decrypts messages. This allows you to communicate with secret messages that cannot be understood by others. 
 
 ## Rules
-Briefly describe the rules of the game.
+You have two options :
+- 1: Encrypt a text message wrote in english
+- 2: Decrypt an encrypted message
+
+You simply have to press 1 or 2 to chose your option, then input your message to receive the encrypted or decrypted version of it. 
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+- 1) Product planning : agree on the rules of the game and its main features 
+- 2) Flowchart of the game
+- 3) Pseudocode, definition of functions/lists/variables names then assignment of the various parts to code 
+- 4) Coding
+- 5) Presentation
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+To organize our work, we have used Jira to create a project sprint, with different tasks that we could visualise on a kanban board. 
 
-What does your repository look like? Explain your folder and file structure.
+In this repository, we have put the code of the game, the flowchart as well as a word document where we outlined the workflow and our pseudocode. 
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
+[Repository](https://github.com/Kaci213/Project_01.git)  
 [Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Jira](https://kaci213.atlassian.net/jira/software/projects/KGK/boards/1)  
