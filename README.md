@@ -34,7 +34,7 @@ You simply have to press 1 or 2 to chose your option, then input your message to
 ## Organization
 To organize our work, we have used Jira to create a project sprint, with different tasks that we could visualise on a kanban board. 
 
-In this repository, we have put the code of the game, the flowchart as well as a word document where we outlined the workflow and our pseudocode. 
+In this repository, we have put the code of the game, the flowchart we have used, the slides presenting the project, as well as a word document where we outlined the workflow and our pseudocode. 
 
 ## Links
 
