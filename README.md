@@ -39,5 +39,4 @@ In this repository, we have put the code of the game, the flowchart as well as a
 ## Links
 
 [Repository](https://github.com/Kaci213/Project_01.git)  
-[Slides](https://slides.com/)  
 [Jira](https://kaci213.atlassian.net/jira/software/projects/KGK/boards/1)  
